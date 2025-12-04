@@ -9,7 +9,8 @@ It allows customers to <b>check inventory, place orders, get updates, and create
 <p>The automation is powered using <b>n8n workflows</b>, connected with <b>Twilio, Groq AI, Airtable, and custom AI prompts</b> to deliver fast, intelligent customer support.</p>
 
 <hr>
-<h2>Video Demonstration:-</h2>
+<h2>Video Demonstration:-</h2> https://shorturl.at/MkpDy
+
 <h2>🚀 Key Features</h2>
 <ul>
   <li>✔ Trigger workflows directly from WhatsApp</li>
