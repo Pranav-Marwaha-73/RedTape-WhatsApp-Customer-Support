@@ -9,7 +9,7 @@ It allows customers to <b>check inventory, place orders, get updates, and create
 <p>The automation is powered using <b>n8n workflows</b>, connected with <b>Twilio, Groq AI, Airtable, and custom AI prompts</b> to deliver fast, intelligent customer support.</p>
 
 <hr>
-
+Video Demonstration:-
 <h2>🚀 Key Features</h2>
 <ul>
   <li>✔ Trigger workflows directly from WhatsApp</li>
@@ -107,18 +107,13 @@ System → checks Airtable → returns availability, price, sizes.</p>
 <img width="1851" height="915" alt="Screenshot 2025-11-24 192657" src="https://github.com/user-attachments/assets/4eafa300-a530-4718-9c02-c7bd8702f41f" />
 <img width="387" height="846" alt="Screenshot 2025-12-04 203520" src="https://github.com/user-attachments/assets/46f3c080-89f5-43f5-93e5-070dc4634522" />
 
-
-<h3>🛒 2. Order Placement</h3>
-<p>User: <i>“I want to order the black RedTape sneakers.”</i><br>
-System → collects details → creates Order ID → stores in Airtable.</p>
-
-<h3>📦 3. Order Tracking</h3>
+<h3>📦 2. Order Tracking</h3>
 <p>User: <i>“Track my order RT1023.”</i><br>
 System → fetches status → replies instantly.</p>
 <img width="387" height="846" alt="Screenshot 2025-12-04 203520" src="https://github.com/user-attachments/assets/681ef2e3-3e79-4b4c-8360-39860e8bab3d" />
 <img width="1853" height="911" alt="Screenshot 2025-11-24 192707" src="https://github.com/user-attachments/assets/d8828472-014b-4add-98da-890876d016c6" />
 
-<h3>🎫 4. Support Ticket Creation</h3>
+<h3>🎫 3. Support Ticket Creation</h3>
 <p>User: <i>“My shoes are damaged.”</i><br>
 System → creates ticket → returns Ticket ID.</p>
 <img width="392" height="847" alt="Screenshot 2025-12-04 203619" src="https://github.com/user-attachments/assets/73953d24-8331-43bb-bad2-0268263b40e3" />
