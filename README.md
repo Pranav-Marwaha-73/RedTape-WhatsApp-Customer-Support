@@ -114,7 +114,8 @@ System → fetches status → replies instantly.</p>
 <h3>🎫 4. Support Ticket Creation</h3>
 <p>User: <i>“My shoes are damaged.”</i><br>
 System → creates ticket → returns Ticket ID.</p>
-![22](https://github.com/user-attachments/assets/869052e3-74cc-40f3-849d-81291febf22a)
+![22](https://github.com/user-attachments/assets/3c05462a-40e0-41ab-b4dd-ac9c6fe0adcc)
+
 <img width="1849" height="918" alt="Screenshot 2025-11-24 192717" src="https://github.com/user-attachments/assets/a87dd480-2a59-4b0d-8783-12f58d22db20" />
 
 <hr>
