@@ -102,6 +102,7 @@ It allows customers to <b>check inventory, place orders, get updates, and create
 <h3>🧾 1. Live Inventory Check</h3>
 <p>User: <i>“Do you have size 9 running shoes?”</i><br>
 System → checks Airtable → returns availability, price, sizes.</p>
+<img width="387" height="846" alt="Screenshot 2025-12-04 203520" src="https://github.com/user-attachments/assets/681ef2e3-3e79-4b4c-8360-39860e8bab3d" />
 
 <h3>🛒 2. Order Placement</h3>
 <p>User: <i>“I want to order the black RedTape sneakers.”</i><br>
@@ -114,7 +115,8 @@ System → fetches status → replies instantly.</p>
 <h3>🎫 4. Support Ticket Creation</h3>
 <p>User: <i>“My shoes are damaged.”</i><br>
 System → creates ticket → returns Ticket ID.</p>
-![22](https://github.com/user-attachments/assets/3c05462a-40e0-41ab-b4dd-ac9c6fe0adcc)
+<img width="392" height="847" alt="Screenshot 2025-12-04 203619" src="https://github.com/user-attachments/assets/73953d24-8331-43bb-bad2-0268263b40e3" />
+
 
 <img width="1849" height="918" alt="Screenshot 2025-11-24 192717" src="https://github.com/user-attachments/assets/a87dd480-2a59-4b0d-8783-12f58d22db20" />
 
