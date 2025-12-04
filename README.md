@@ -50,6 +50,7 @@ It allows customers to <b>check inventory, place orders, get updates, and create
 <hr>
 
 <h2>🧩 System Architecture (4-Phase Build)</h2>
+<img width="1919" height="910" alt="Screenshot 2025-11-24 192644" src="https://github.com/user-attachments/assets/40d86465-a3e2-4701-a514-516bbab48791" />
 
 <h3>1️⃣ Phase 1 – WhatsApp Setup (Twilio)</h3>
 <ul>
@@ -94,6 +95,7 @@ It allows customers to <b>check inventory, place orders, get updates, and create
   <li>AI generates friendly response</li>
   <li>n8n sends reply back to WhatsApp</li>
 </ol>
+<img width="1599" height="777" alt="Screenshot 2025-11-24 192633" src="https://github.com/user-attachments/assets/c843360b-e048-42e9-a1df-5a6777d6bf94" />
 
 <hr>
 
